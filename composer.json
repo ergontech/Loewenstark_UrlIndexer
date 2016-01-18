@@ -1,0 +1,11 @@
+{
+  "name": "ergontech/url-indexer",
+  "type": "magento-module",
+  "description": "Drop-in replacement for the Magento core indexer and Dnd_PatchIndexer",
+  "homepage": "https://github.com/ergontech/Loewenstark_UrlIndexer",
+  "authors": [
+    {
+      "name": "Mathis Klooß"
+    }
+  ]
+}
